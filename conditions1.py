@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# NEED TO CHANGE THE CONTENT/SUBJECT MATERIAL
+#Substitute age. name and printy statements to something else
+
 #Conditions: if else elif.
 #A few ways to write them.
 
