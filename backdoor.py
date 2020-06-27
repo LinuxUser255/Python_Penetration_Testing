@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#Backdoor
+#Backdoor --- (Rough draft)
 import socket
 import os
 import platform
