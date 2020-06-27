@@ -1,0 +1,4 @@
+
+https://subscription.packtpub.com/book/networking_and_servers/9781788838979
+
+https://hub.packtpub.com/build-botnet-detectors-using-machine-learning-algorithms-in-python-tutorial/
