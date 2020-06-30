@@ -1,20 +1,22 @@
 #!/usr/bin/env python3
 
 
-# Conditionals first example. 
+# Conditional statements. 
 x = 55
 
-#if x < 550:
-#    print("x is smaller than 55")
-    
+# if statement
+if x < 55:
+    print("x is smaller than 55")
 
-#if x < 40 or x > 50:
-#    print("x is under 40")
-#else:
-#    print("x is above 50")
+# if else statement
+if (x < 40) or (x > 50):
+    print("x is greater than 50")
+else:
+    print("N/A")
 
-if x < 40 or x > 50:
-    print("x is under 40")
+
+if (x < 40) or (x > 50):
+    print("x is greater than 50")
 else:
     print("x is above 50")
 if x == 55:
