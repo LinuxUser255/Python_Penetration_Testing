@@ -6,78 +6,78 @@ guess = int(input())
 
 #Round 1
 if guess < answer:
-     print("Please guess higher, R1")
+     print("Higher, R1")
      guess = int(input())
      if guess == answer:
-         print("Well done, you guessed it, R1")
+         print("You got it, R1")
      else:
-         print("Sorry, you have not guessed correctly R1")
+         print("Sorry, incorrect. R1")
 elif guess > answer:
-     print("Please guess lower, R1")
+     print("Lower, R1")
      guess = int(input())
      if guess == answer:
-         print("Well done, you guessed it, R1")
+         print("You got it, R1")
      else:
-        print("Sorry, you have not guessed correctly, R1")
+        print("Sorry, incorrect. R1")
 else:
-    print("1 You got it first time, R1")
+    print("Congtrats! First try. R1")
 
 
 #Round 2
 if guess < answer:
-     print("Please guess higher, R2")
+     print("Higher, R2")
      guess = int(input())
      if guess == answer:
-         print("Well done, you guessed it, R2")
+         print("You got it. R2")
      else:
-         print("Sorry, you have not guessed correctly, R2")
+         print("Sorry, incorrect. R2")
 elif guess > answer:
-     print("Please guess lower, R2")
+     print("Lower. R2")
      guess = int(input())
      if guess == answer:
-         print("Well done, you guessed it, R2")
+         print("You got it. R2")
      else:
-        print("Sorry, you have not guessed correctly, R2")
+        print("Sorry, incorrect, R2")
 else:
-    print("first try ,R2")
+    print("Congrats! First try ,R2")
 
 
 #Round 3
 if guess < answer:
-     print("Please guess higher, R3")
+     print("Higher, R3")
      guess = int(input())
      if guess == answer:
-         print("Well done, you guessed it, R3")
+         print("You got it. R3")
      else:
-         print("Sorry, you have not guessed correctly, R3")
+         print("Sorry, incorrect. R3")
 elif guess > answer:
-     print("Please guess lower, R3")
+     print("Lower. R3")
      guess = int(input())
      if guess == answer:
-         print("Well done, you guessed it, R3")
+         print("You got it. R3")
      else:
-        print("Sorry, you have not guessed correctly, R3")
+        print("Sorry, incorrect. R3")
 else:
-    print("first try ,R3")
+    print("Congrats! First try. R3")
 
 
 #Round 4
 if guess < answer:
-     print("Please guess higher, R4")
+     print("Higher. R4")
      guess = int(input())
      if guess == answer:
-         print("Well done, you guessed it, R4")
+         print("You got it. R4")
      else:
-         print("Sorry, you have not guessed correctly, R4")
+         print("Sorry, incorrect. R4")
 elif guess > answer:
-     print("Please guess lower, R4")
+     print("Lower. R4")
      guess = int(input())
      if guess == answer:
-         print("Well done, you guessed it, R4")
+         print("You got it. R4")
      else:
-        print("Sorry, you have not guessed correctly, R4")
+        print("Sorry, incorrect. R4")
 else:
-    print("first try ,R4")
+    print("Congrats! First try. ,R4")
 
 
 
