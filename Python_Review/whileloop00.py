@@ -7,6 +7,3 @@ import time
 while (25 + 25 == 50):
         time.sleep(0.1)
         print('continue looping')
-
-
-
