@@ -33,3 +33,27 @@ Topics:
 *Attacking web apps
 
 *Automation
+
+-----------------------------------------------
+...............................................
+
+1) Pre-Engagement Actions
+2) Reconnaissance
+3) Threat Modeling & Vulnerability Identification
+4) Exploitation
+5) Post-Exploitation
+6) Reporting
+7) Resolution & Re-Testing
+
+
+
+
+
+
+
+
+
+
+
+
+
