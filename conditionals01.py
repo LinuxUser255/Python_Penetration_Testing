@@ -4,9 +4,13 @@
 #A few ways to write them.
 
 #Reading user input 
-name = input("enter name: ")
-age = int(input("how old are you, {0}? ".format(name)))
-print(age)
+type = input("Scan type? TCP or UDP: ")
+port = int(type("Enter the port number: {0}, ")
+       # print("Scanning port {0}, ".format(type))
+
+int = int(input("Enter port number to scan: {0}, ".format(type)))
+
+print(type)
 
 #Using a Replacement field {0}
 if age >= 18:
@@ -17,17 +21,13 @@ else:
 
 age = int(input("your age? "))
 
-#Using () and ()
-if (age == 16) and (age == 16):
-    print("have fun")
-else:
-    print("get to work")
 
 #Using () or () 
-if (age < 16) or (age > 65):
-    print("enjoy it while it lasts") 
+if (age < 16) or (age > 90):
+    print("It's best to call a cab.") 
 else:
-    print("have a good day at work")
+    print("You can drive.")
+
 
 
 
