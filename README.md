@@ -28,7 +28,7 @@ Overview/Table of contents
      Python and Bypassing Anti Virus
      Preparing for a Wifi attack, how to change your MAC Address
      
-4. Attacking Web Applications
+4.Attacking Web Applications
      How to build a web scrapper in Python vs using existing ones.
      Enumerating websites with Nikto and DirBuster
      Using SQL Map and Burp Suite to exploit Web forms and requests
