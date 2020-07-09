@@ -30,7 +30,7 @@ Overview/Table of contents
      
 4.  Attacking Web Applications
 	  How to build a web scrapper in Python vs using existing ones.
-    Enumerating websites with Nikto and DirBuster
+   	  Enumerating websites with Nikto and DirBuster
 	  Using SQL Map and Burp Suite to exploit Web forms and requests
 	  Use Python to create an e-mail sender
 	  Phishing with SET. The Social Engineering Toolkit
@@ -47,11 +47,9 @@ Overview/Table of contents
 
 *Page scraping & phishing
 
-*Bypassing firewalls & botnet filtering
+*Bypassing firewalls 
 
 *Exception handling
-
-*Traffic sniffing & packet injection
 
 *Privilege escalation 
 
