@@ -2,7 +2,7 @@
 
 Overview/Table of contents
 
-1.Refresher on Python
+1. Refresher on Python
     Conditionals
     Ranges
     Loops. For loops and While loops
@@ -11,14 +11,14 @@ Overview/Table of contents
     Input/Output
     Exception Handling
 
-2.Common vulnerabilities Python can exploit:
+2. Common vulnerabilities Python can exploit:
     Buffer Overflows, Weak Passwords and sensitive information disclosure
     Introduction to Buffer Overflows. What they are and how they work.
     How to use Python to exploit a Buffer Overflow vulnerability. 
     Exsposure to assembly code and debugging.
     Exploit Eternal Blue, CVE-2017-0144 /  MS17-010. Using Python & understand the three bugs.
     
-3.Using Python for Network Penetration Testing 
+3. Using Python for Network Penetration Testing 
      Automate reconnaissance with Spider Foot: an OSINT tool written in Python
      How to Create a Python HTTP Banner Grabber and Port Scanner
      Using the Socket Module for creating HTTP and HTTPS servers, clients, and reverse shells
@@ -28,7 +28,7 @@ Overview/Table of contents
      Python and Bypassing Anti Virus
      Preparing for a Wifi attack, how to change your MAC Address
      
-4.Attacking Web Applications
+4. Attacking Web Applications
      How to build a web scrapper in Python vs using existing ones.
      Enumerating websites with Nikto and DirBuster
      Using SQL Map and Burp Suite to exploit Web forms and requests
