@@ -3,8 +3,8 @@
 Overview/Table of contents
 
 1.Refresher on Python
-	  Conditionals
-	  Ranges
+    Conditionals
+    Ranges
     Loops. For loops and While loops
     Variables and True-False
     Functions
@@ -28,13 +28,13 @@ Overview/Table of contents
      Python and Bypassing Anti Virus
      Preparing for a Wifi attack, how to change your MAC Address
      
-4.  Attacking Web Applications
-	  How to build a web scrapper in Python vs using existing ones.
-   	  Enumerating websites with Nikto and DirBuster
-	  Using SQL Map and Burp Suite to exploit Web forms and requests
-	  Use Python to create an e-mail sender
-	  Phishing with SET. The Social Engineering Toolkit
-	  How to crack passwords with Hashcat.    
+4. Attacking Web Applications
+     How to build a web scrapper in Python vs using existing ones.
+     Enumerating websites with Nikto and DirBuster
+     Using SQL Map and Burp Suite to exploit Web forms and requests
+     Use Python to create an e-mail sender
+     Phishing with SET. The Social Engineering Toolkit
+     How to crack passwords with Hashcat.    
      
  ------------------------------------------------------------
  Topics covered:
