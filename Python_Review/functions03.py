@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
 
-def get_formatted_name(first_name, last_name):
+#Passing an argument to a function.
+def get_formatted_car(make, model):
 
-    full_name = f"{first_name} {last_name}"
-    return full_name.title()
+    full = f"{make} {model}"
+    return full.title()
 
 
 #While loop
 while True:
-    print ("\nPlease tell me your name ")
-    f_name = input("first name: ")
-    l_name = input("Last Name: ")
+    print ("\nWhat is the make and model of your car? ")
+    f_make = input("Make: ")
+    s_model = input("Model: ")
 
-    formatted_name = get_formatted_name(f_name, l_name)
-    print(f"\nHi, {formatted_name}!")
+    formatted_car = get_formatted_car(f_make, s_model)
+    print(f"\nYou drive a {formatted_car}. Nice.")
     break
-
