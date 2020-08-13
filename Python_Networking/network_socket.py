@@ -6,7 +6,7 @@ import socket
 
 # Network socket: start a client that initiates a connection to a Python Server
 # use the connect function
-SRV_ADDR = input("TYpe server IP: ")
+SRV_ADDR = input("Type server IP: ")
 SRV_PORT = int(input("Type the server port: ")
 
 
