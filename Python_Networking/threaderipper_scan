@@ -11,7 +11,7 @@ import subprocess
 from queue import Queue
 from datetime import datetime
 
-# Start Threader3000 with clear terminal
+# Start Thread Ripper with clear terminal
 
 
 subprocess.call('clear', shell=True)
@@ -24,7 +24,7 @@ def main():
 
 # Print/display the Welcome Banner
     print("-" * 60)
-    print("        Threader 3000 - Multi-threaded Port Scanner          ")
+    print("        Thread Ripper, a Multi-threaded Port Scanner          ")
     print("                                       ")
     print("                        ")
     print("-" * 60)
@@ -94,7 +94,7 @@ def main():
     total = t2 - t1
     print("Port scan completed in "+str(total))
     print("-" * 60)
-    print("Threader3000 recommends the following Nmap scan:")
+    print("Thread Ripper recommends the following Nmap scan:")
     print("*" * 60)
     print("nmap -p{ports} -sV -sC -T4 -Pn -oA {ip} {ip}".format(ports=",".join(discovered_ports), ip=target))
     print("*" * 60)
@@ -110,7 +110,7 @@ def main():
           print("Would you like to run Nmap or quit to terminal?")
           print("-" * 60)
           print("1 = Run suggested Nmap scan")
-          print("2 = Run another Threader3000 scan")
+          print("2 = Run another Thread Ripper scan")
           print("3 = Exit to terminal")
           print("-" * 60)
           choice = input("Option Selection: ")
