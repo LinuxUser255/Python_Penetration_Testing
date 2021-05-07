@@ -1,0 +1,6 @@
+root:root
+pi:bodhilinux
+root:openelec
+pi:raspberry
+root:raspberrypi
+pi:raspberry

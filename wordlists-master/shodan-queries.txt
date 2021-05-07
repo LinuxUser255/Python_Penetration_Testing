@@ -1,0 +1,76 @@
+Samsung Electronic Billboards,"Server: Prismview Player"
+Gas Station Pump Controllers,"in-tank inventory" port:10001
+Automatic License Plate Readers,P372 "ANPR enabled"
+Traffic Light Controllers / Red Light Cameras,mikrotik streetlight
+Voting Machines in the United States,"voter system serial" country:US
+Telcos Running Cisco Lawful Intercept Wiretaps,"Cisco IOS" "ADVIPSERVICESK9_LI-M"
+Prison Pay Phones,"[2J[H Encartele Confidential"
+Tesla PowerPack Charging Status,http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2
+Electric Vehicle Chargers,"Server: gSOAP/2.8" "Content-Length: 583"
+Maritime Satellites,"Cobham SATCOM" OR ("Sailor" "VSAT")
+Submarine Mission Control Dashboards,title:"Slocum Fleet Mission Control"
+CAREL PlantVisor Refrigeration Units,"Server: CarelDataServer" "200 Document follows"
+Nordex Wind Turbine Farms,http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"
+C4 Max Commercial Vehicle GPS Trackers,"[1m[35mWelcome on console"
+DICOM Medical X-Ray Machines,"DICOM Server Response" port:104
+GaugeTech Electricity Meters,"Server: EIG Embedded Web Server" "200 Document follows"
+Siemens Industrial Automation,"Siemens, SIMATIC" port:161
+Siemens HVAC Controllers,"Server: Microsoft-WinCE" "Content-Length: 12581"
+Door / Lock Access Controllers,"HID VertX" port:4070
+Railroad Management,"log off" "select the appropriate"
+Unprotected VNC,"authentication disabled" "RFB 003.008"
+Windows RDP,"\x03\x00\x00\x0b\x06\xd0\x00\x00\x124\x00"
+Weave Scope Dashboards,title:"Weave Scope" http.favicon.hash:567176827
+MongoDB,"MongoDB Server Information" port:27017 -authentication
+Mongo Express Web GUI,"Set-Cookie: mongo-express=" "200 OK"
+Jenkins CI,"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"
+Docker APIs,"Docker Containers:" port:2375
+Docker Private Registries,"Docker-Distribution-Api-Version: registry" "200 OK" -gitlab
+Pi-hole Open DNS Servers,"dnsmasq-pi-hole" "Recursion: enabled"
+Already Logged-In as root via Telnet,"root@" port:23 -login -password -name -Session
+Android Root Bridges,"Android Debug Bridge" "Device" port:5555
+Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords,Lantronix password port:30718 -secured
+Citrix Virtual Apps,"Citrix Applications:" port:1604
+Cisco Smart Install,"smart install client active"
+PBX IP Phone Gateways,PBX "gateway console" -password port:23
+Polycom Video Conferencing,http.title:"- Polycom" "Server: lighttpd"
+Polycom Video Conferencing Telnet Configuratioon,"Polycom Command Shell" -failed port:23
+Bomgar Help Desk Portal,"Server: Bomgar" "200 OK"
+Intel Active Management CVE-2017-5689,"Intel(R) Active Management Technology" port:623,664,16992,16993,16994,16995
+HP iLO 4 CVE-2017-12542,HP-ILO-4 !"HP-ILO-4/2.53" !"HP-ILO-4/2.54" !"HP-ILO-4/2.55" !"HP-ILO-4/2.60" !"HP-ILO-4/2.61" !"HP-ILO-4/2.62" !"HP-iLO-4/2.70" port:1900
+Outlook Web Access - Exchange 2007,"x-owa-version" "IE=EmulateIE7" "Server: Microsoft-IIS/7.0"
+Outlook Web Access - Exchange 2010,"x-owa-version" "IE=EmulateIE7" http.favicon.hash:442749392
+Outlook Web Access - Exchange 2013-2016,"X-AspNet-Version" http.title:"Outlook" -"x-owa-version"
+Lync / Skype for Business,"X-MS-Server-Fqdn"
+SMB (Samba) File Shares,"Authentication: disabled" port:445
+SMB (Samba) Domain Controllers,"Authentication: disabled" NETLOGON SYSVOL -unix port:445
+SMB (Samba) Shares with Quickbooks Data,"Authentication: disabled" "Shared this folder to access QuickBooks files OverNetwork" -unix port:445
+FTP Servers with Anonymous Login,"220" "230 Login successful." port:21
+Iomega / LenovoEMC NAS Drives,"Set-Cookie: iomega=" -"manage/login.html" -http.title:"Log In"
+Buffalo TeraStation NAS Drives,Redirecting sencha port:9000
+Logitech Media Servers,"Server: Logitech Media Server" "200 OK"
+Plex Media Servers,"X-Plex-Protocol" "200 OK" port:32400
+Tautulli / PlexPy Dashboards,"CherryPy/5.1.0" "/home"
+Webcams - Yawcams,"Server: yawcam" "Mime-Type: text/html"
+Webcams - webcamXP/webcam7,("webcam 7" OR "webcamXP") http.component:"mootools" -401
+Webcams - Android IP Webcam Server,"Server: IP Webcam Server" "200 OK"
+Security DVRs,html:"DVR_H264 ActiveX"
+HP Printers,"Serial Number:" "Built:" "Server: HP HTTP"
+Xerox Copiers/Printers,ssl:"Xerox Generic Root"
+Epson Printers 1,"SERVER: EPSON_Linux UPnP" "200 OK"
+Epson Printers 2,"Server: EPSON-HTTP" "200 OK"
+Cannon Printers 1,"Server: KS_HTTP" "200 OK"
+Cannon Printers 2,"Server: CANON HTTP Server"
+Yamaha Stereos,"Server: AV_Receiver" "HTTP/1.1 406"
+Apple AirPlay Receivers,"\x08_airplay" port:5353
+Chromecasts / Smart TVs,"Chromecast:" port:8008
+Crestron Smart Home Controllers,"Model: PYNG-HUB"
+OctoPrint 3D Printer Controllers,title:"OctoPrint" -title:"Login" http.favicon.hash:1307375944
+Etherium Miners,"ETH - Total speed"
+Apache Directory Listings,http.title:"Index of /" http.html:".pem"
+Misconfigured WordPress,http.html:"* The wp-config.php creation script uses this file"
+Minecraft Servers,"Minecraft Server" "protocol 340" port:25565
+North Korea,net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24
+Quote of the Day,port:17 product:"Windows qotd"
+Find a Job Doing This!,"X-Recruiting:"
+

